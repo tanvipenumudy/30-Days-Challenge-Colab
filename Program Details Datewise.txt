@@ -1,0 +1,25 @@
+Program Details*
+
+Day-8,9,10: Portion Uploaded (7th,8th and 9th Sept)
+Day-11: Binary Search Trees Intro and Problems
+Day-12: Heaps Intro and Problems
+Day-13: Hashing Intro and Demo Problems
+Day-14: Intro to Graphs and Basic Problems
+Day-15: More Demo Problems on Graphs
+Day-16: Interview Problems on Completed Portion (Overview)
+Day-17: Matrix Intro and Problems
+Day-18: Arrays and Problems
+Day-19: LinkedList and Problems
+Day-20: Revision 
+Day-21: Revision
+Day-22: Sorting Algorithms
+Day-23: MST, Graph Colouring, Graph Cycle Problems
+Day-24: Leftovers, Problem Solving and Practice
+Day-25: Leftovers, Problem Solving and Practice
+Day-26: Leftovers, Problem Solving and Practice
+Day-27: Leftovers, Problem Solving and Practice
+Day-28: Leftovers, Problem Solving and Practice
+Day-29: Leftovers, Problem Solving and Practice
+Day-30: Leftovers, Problem Solving and Practice (1st Oct)
+
+*Deadlines are flexible (due to the tight scheduled semester) 
